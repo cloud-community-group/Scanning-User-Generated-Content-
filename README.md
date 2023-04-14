@@ -6,7 +6,7 @@
       <a href="#about-the-project">About The Project</a>
        <ul>
             <li><a href="#description">Description</a></li>
-            <li><a href="#keyfeature">Key  Features</a></li>
+            <li><a href="#key-feature">Key  Features</a></li>
             <li><a href="#benefits">Benefits</a></li>
       </ul>
     </li>
