@@ -37,7 +37,7 @@ Use the `BLANK_README.md` to get started.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Scanning User-Generated Content in Google Cloud Documentation.png" alt="" width="800" height="800">
+    <img src="Scanning User-Generated Content in Google Cloud Documentation.png" alt="" width="800" height="600">
   </a>
 
 
