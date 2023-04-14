@@ -46,7 +46,7 @@ The primary objective of this project is to prevent the dissemination of harmful
 * Maintains a positive reputation for an organization
 * Customizable to meet an organization's specific needs
 
-###Conclusion:
+### Conclusion:
 The Scanning User-Generated Content in Google Cloud Documentation project is a vital solution for organizations looking to ensure the safety and compliance of their user-generated content. By utilizing machine learning models and services provided by Google Cloud, organizations can prevent the dissemination of harmful content and maintain a positive reputation. The project is customizable to meet an organization's specific needs, making it an essential tool for any organization looking to protect its content and reputation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
