@@ -72,20 +72,7 @@ The use of Scanning User-Generated Content in Google Cloud Documentation is to a
 _For more examples, please refer to the [Documentation](https://docs.google.com/document/d/1dO6SWhzOx5_3xxmB-kMPSnxChTof5Vq8R1NkMDavTMU/edit?usp=sharing)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
+    
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
